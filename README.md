@@ -18,6 +18,7 @@ py -m venv .venv
 
 # (Alternativa en Windows CMD)
 # .venv\Scripts\activate.bat
+```
 
 1. requests es una librería cliente HTTP cuya función es enviar peticiones web a un servidor y recibir la respuesta. En cambio, BeautifulSoup es un analizador sintáctico (parser) que toma ese texto HTML o XML y lo transforma en un árbol de objetos de Python navegable, permitiendo buscar, filtrar y extraer elementos específicos mediante etiquetas, atributos o selectores CSS.
 2. Existe el riesgo de fragilidad o rotura del scraper: si los desarrolladores del sitio web modifican la estructura del DOM, renombran clases CSS (por ejemplo, cambiar article.product_pod o p.price_color) o alteran la jerarquía de etiquetas, los selectores dejarán de encontrar los elementos, provocando que la extracción devuelva datos vacíos, incompletos o lance excepciones en tiempo de ejecución.
