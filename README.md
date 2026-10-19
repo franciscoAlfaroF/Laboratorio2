@@ -1,6 +1,6 @@
 # Laboratorio 2: Web Scraping, Procesamiento y Recuperación de Información
 
-- **URL del Repositorio:** [[Pegar URL de tu repositorio GitHub aquí]](https://github.com/franciscoAlfaroF/Laboratorio2)
+- **URL del Repositorio:** https://github.com/franciscoAlfaroF/Laboratorio2
 
 ---
 
